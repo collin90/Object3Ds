@@ -1,0 +1,6 @@
+newmtl Plastic Textured_d638e902-87d2-41c5-a87c-f6e23b810410
+Kd 0.510 0.510 0.510
+d 1.000
+newmtl Subsurface Textured 1_0df70f1c-cab8-4b36-9e70-de838fba4968
+Kd 0.945 0.820 1.000
+d 1.000
