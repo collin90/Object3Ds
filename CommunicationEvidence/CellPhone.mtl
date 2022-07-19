@@ -1,0 +1,13 @@
+newmtl Plastic Textured_04ba35e0-91b9-4c84-b614-eb910d8768af
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl City Park_5bdd0962-98ce-4fee-ad7b-3f673a94ed90
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Plastic Textured 2_066b295d-dd24-46f0-a77e-b1a558b1b142
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Linear_Gradient_Texture.jpg
+newmtl Plastic Textured 1_1bb46269-24ef-4c28-ba47-497d5bee2302
+Kd 0.459 0.459 0.459
+d 1.000

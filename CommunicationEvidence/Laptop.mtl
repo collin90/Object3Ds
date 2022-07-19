@@ -1,0 +1,13 @@
+newmtl Autumn_fc393c89-03d2-48ef-af79-3a381b7389d0
+Kd 0.169 0.169 0.169
+d 1.000
+newmtl Subsurface Textured 2_d955443b-8010-4091-9546-d1ee3524e823
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Linear_Gradient_Texture.jpg
+newmtl Subsurface Textured_2f873b54-cb5d-4870-8c54-0d036b09bac6
+Kd 0.569 0.569 0.569
+d 1.000
+newmtl Subsurface Textured 21_9b5ffeb7-1b52-49d1-b072-445812eadb36
+Kd 0.361 0.361 0.361
+d 1.000
